@@ -39,12 +39,12 @@
 //     return products[myIndex]
 // }
 
-function detectType(val: string | number){
-    if(typeof val === "string"){
-        return val.toLowerCase()
-    }
-    return val + 3
-}
+//function detectType(val: string | number){
+//    if(typeof val === "string"){
+//        return val.toLowerCase()
+//    }
+//    return val + 3
+//}
 
 
 function provideId(id: string | null){
